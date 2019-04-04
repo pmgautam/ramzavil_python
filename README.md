@@ -1,2 +1,2 @@
 # ramzavil_python
-My python tutorials at https://ramzavil.wordpress.com
+My python tutorials at https://raamza.com
